@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahadsidek
 - 👀 I’m interested in all topics related to programming and Artificial Intelligence
-- 🌱 My Skills: HTML - CSS - JS - Python - SQL. 
+- 🌱 My Skills: HTML - CSS - JS - Python - SQL -React - Redux - React Native - jQuery. 
 - 💞️ I’m looking to collaborate on different coding projects
 - 📫 How to reach me shahad.sidek@gmail.com
 
